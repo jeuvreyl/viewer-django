@@ -1,7 +1,7 @@
 Viewer_django
 ==============================
 
-A short description of the project.
+A little project to learn django, generated with cookiecutter : https://github.com/pydanny/cookiecutter-django
 
 
 LICENSE: BSD
