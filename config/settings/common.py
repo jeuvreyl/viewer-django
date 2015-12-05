@@ -44,6 +44,7 @@ THIRD_PARTY_APPS = (
 # Apps specific for this project go here.
 LOCAL_APPS = (
     'viewer.users',  # custom users app
+    'viewer.contents',  # file management app
     # Your stuff: custom apps go here
 )
 
